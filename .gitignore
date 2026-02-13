@@ -7,7 +7,7 @@ db.sqlite3
 *.log
 
 # Environment variables
-.env
+#.env
 
 # Virtual Environment
 .venv
